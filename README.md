@@ -19,6 +19,7 @@
 これ以上、よろしくお愿い申しげにまはす。
 
 The lessons I learnt in the Master course:
+
 √	Database Management: EER Diagram, Relational Query, SQL function implementation such as Insert/Update/Delete 
 √	Information security: security basics including buffer overflow attack using C, malware analysis, cryptography 
 algorithms, web security (SQL Injection, XSS, and XSRF), network authentication, legal and ethical issues
